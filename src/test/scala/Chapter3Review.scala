@@ -1,6 +1,6 @@
 import org.specs2.mutable.Specification
 
-class Chapter3Review extends Specification  {
+class Chapter3Review extends Specification  { val txt =
   """
 
   * I'm not convinced about the sidebar about variance. If it's not important maybe it's better to remove it.

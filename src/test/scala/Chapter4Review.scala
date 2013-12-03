@@ -1,6 +1,6 @@
 import org.specs2.mutable.Specification
 
-class Chapter4Review extends Specification  {
+class Chapter4Review extends Specification  { val txt =
   """
     * I don't find the first example about RT with exceptions very clear if compared with the first explanation in the book
 

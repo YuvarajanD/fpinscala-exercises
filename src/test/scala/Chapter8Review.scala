@@ -1,6 +1,6 @@
 import org.specs2.mutable.Specification
 
-class Chapter8Review extends Specification  {
+class Chapter8Review extends Specification  { val txt =
   """
   typo: REFININING THE PRIMITIVES
 

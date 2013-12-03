@@ -1,6 +1,7 @@
 import org.specs2.mutable.Specification
 
 class Chapter2Review extends Specification  {
+  val txt =
   """
 
   *'abs' method could be given in the fpinscala.structuringprograms.Exercises object

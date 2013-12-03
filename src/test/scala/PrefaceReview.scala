@@ -1,6 +1,6 @@
 import org.specs2.mutable._
 
-class PrefaceReview extends Specification {
+class PrefaceReview extends Specification { val txt =
   """
   *How to read this book*
 

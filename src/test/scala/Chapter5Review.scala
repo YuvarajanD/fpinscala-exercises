@@ -1,6 +1,6 @@
 import org.specs2.mutable.Specification
 
-class Chapter5Review extends Specification  {
+class Chapter5Review extends Specification  { val txt =
   """
    * "Exercise 2: write a function" - typo on 'function'
    * Exercise 13: small typo 'Stream(1,2,3) starsWith Stream(1,2)'
